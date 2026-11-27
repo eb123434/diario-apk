@@ -1,7 +1,7 @@
 {
   "versionCode": 22,
   "versionName": "1.1.1",
-  "url": "https://github.com/eb123434/diario-apk/releases/download/v1.1.1/Diariolau-1.1.1-22.apk",
+  "url": "https://raw.githubusercontent.com/eb123434/diario-apk/50e6e100c08ac63c2cfbba8b03b26809333c5758/Diariolau-1.1.1-22.apk",
   "bytes": 69856829,
   "md5": "0de3bcd8bc5dc1eea0b03a81e5bad256",
   "notes": "Busca de atualizações mais confiável, com acesso direto ao GitHub e avisos claros quando a consulta falha.",

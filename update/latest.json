@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "0.0.6a",
-  "url": "https://github.com/eb123434/diario-apk/releases/download/v0.0.6a/SixSeven-0.0.6a-arm64-v8a.apk",
-  "bytes": 68196380,
-  "md5": "3114fd5f7a1919bd24fe3203723319f1",
-  "notes": "Correções de estabilidade, mídia, áudio, notificações e desenho.",
-  "publishedAt": "2026-10-24T14:24:42.356Z"
+  "versionCode": 22,
+  "versionName": "1.1.1",
+  "url": "https://github.com/eb123434/diario-apk/releases/download/v1.1.1/Diariolau-1.1.1-22.apk",
+  "bytes": 69856829,
+  "md5": "0de3bcd8bc5dc1eea0b03a81e5bad256",
+  "notes": "Busca de atualizações mais confiável, com acesso direto ao GitHub e avisos claros quando a consulta falha.",
+  "publishedAt": "2026-11-27T02:57:50.375Z"
 }
